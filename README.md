@@ -34,7 +34,7 @@ This is my Portfolio Website where I showcase some of the projects I've been wor
 Here is a live link to the project 
 
 
-https://trekhub.github.io/myPortfolio/
+https://trekhub.github.io/portfolio/
 
 ![alt text](images/screen.png)
 
